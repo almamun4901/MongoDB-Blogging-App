@@ -1,0 +1,93 @@
+in Blog1:
+  - - - -
+title: Tech Update
+userName: Sabik Jawad
+timestamp: 2025-03-09T06:46:34.908110+00:00
+permalink: blog1.Tech_Update
+body:
+  **deleted by Admin**
+
+    - - - -
+  userName: Arya
+  permalink: 2025-03-09T06:46:34.906913+00:00
+  comment:
+    I love AI advancements.
+
+  - - - -
+title: Welcome Post
+userName: Al Mamun
+timestamp: 2025-03-09T06:46:34.908492+00:00
+permalink: blog1.Welcome_Post
+body:
+  **deleted by Admin**
+
+    - - - -
+  userName: Maya
+  permalink: 2025-03-09T06:46:34.906179+00:00
+  comment:
+    Nice post, Al Mamun!
+
+    - - - -
+  userName: Grace
+  permalink: 2025-03-09T06:46:34.907730+00:00
+  comment:
+    I agree, Al did great!
+
+  - - - -
+title: Introduction
+userName: Hasib
+timestamp: 2025-03-09T06:46:34.908855+00:00
+permalink: blog1.Introduction
+body:
+  Hi, I am hasib. Nice to meet you all!
+
+  - - - -
+title: Introduction
+userName: gilly
+timestamp: 2025-03-09T06:46:34.909032+00:00
+permalink: blog1.Introduction
+body:
+  Hi, I am Gilly. Wassaup!
+
+in Blog2:
+  - - - -
+title: My Travel Journey
+userName: Tamhid
+timestamp: 2025-03-09T06:46:34.881855+00:00
+permalink: blog2.My_Travel_Journey
+body:
+  Sharing my experiences from Rome, Italy!
+
+    - - - -
+  userName: SJ
+  permalink: 2025-03-09T06:46:34.907344+00:00
+  comment:
+    Great to hear about your journey!
+
+in Blog1:
+  - - - -
+title: Tech Update
+userName: Sabik Jawad
+timestamp: 2025-03-09T06:46:34.908110+00:00
+permalink: blog1.Tech_Update
+body:
+  **deleted by Admin**
+
+in Blog2:
+  - - - -
+title: My Travel Journey
+userName: Tamhid
+timestamp: 2025-03-09T06:46:34.881855+00:00
+permalink: blog2.My_Travel_Journey
+body:
+  Sharing my experiences from Rome, Italy!
+
+in Blog1:
+  - - - -
+title: Introduction
+userName: Hasib
+timestamp: 2025-03-09T06:46:34.908855+00:00
+permalink: blog1.Introduction
+body:
+  Hi, I am hasib. Nice to meet you all!
+
